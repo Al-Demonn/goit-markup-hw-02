@@ -142,9 +142,6 @@ text-decoration: underline;
 	background: #f4f4fd;
 }
 
-.team-card-box {
-
-}
 
 .team-title {
 	font-weight: 500;
@@ -164,7 +161,7 @@ text-decoration: underline;
 	color: #434455;
 }
 
-
+/* end section team */
 
 .portfolio-title {
 	font-weight: 500;
