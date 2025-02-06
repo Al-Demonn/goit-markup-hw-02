@@ -23,6 +23,9 @@ h3 {
 	line-height: 1.2;
 }
 
+
+/* #region heder */
+
 .nav-logo {
 	font-family: "Raleway", sans-serif;
 	font-weight: 700;
@@ -75,8 +78,10 @@ h3 {
 text-decoration: underline;
 }
 
-/* end heder */
+/* #endregion heder */
 
+
+/* #region hero */
 
 .hero-image {
 	background: #2e2f42;
@@ -104,7 +109,7 @@ text-decoration: underline;
 	background-color: #404bbf;
 }
 
-/* end hero image */
+/* #endregion hero */
 
 
 .section-title {
@@ -118,6 +123,7 @@ text-decoration: underline;
 }
 
 
+/* #region features */
 
 .features-title {
 	font-weight: 500;
@@ -134,14 +140,12 @@ text-decoration: underline;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+/* #endregion features */
 
-/* end features */
-
-
+/* #region team */
 .team {
 	background: #f4f4fd;
 }
-
 
 .team-title {
 	font-weight: 500;
@@ -160,9 +164,9 @@ text-decoration: underline;
 	text-align: center;
 	color: #434455;
 }
+/* #endregion team */
 
-/* end section team */
-
+/* #region portfolio */
 .portfolio-title {
 	font-weight: 500;
 	font-size: 20px;
@@ -178,10 +182,9 @@ text-decoration: underline;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+/* #endregion portfolio */
 
-/* end section portfolio */
-
-
+/* #region footer */
 .footer {
 	background: #2e2f42;
 }
@@ -204,3 +207,4 @@ text-decoration: underline;
 	letter-spacing: 0.02em;
 	color: #f4f4fd;
 }
+/* #endregion footer */
